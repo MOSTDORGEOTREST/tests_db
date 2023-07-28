@@ -1,0 +1,7 @@
+**/.env
+**/venv
+**/env.txt
+**/.DS_Store
+**/.pytest_cache
+**/.idea
+**/__pycache__
